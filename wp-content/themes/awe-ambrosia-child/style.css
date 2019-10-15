@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Awe-Ambrosia Child
+ Theme URI: http://demo.awethemes.com/flowvin/
+ Description:  Awe-Ambrosia Child Theme
+ Author:       Awethemes
+ Author URI:   www.awethemes.com
+ Template:     awe-ambrosia
+ Version:      1.0.0
+ License: Themeforest Split Licence
+ License URI: -
+ Tags: translation-ready, threaded-comments, theme-options, sticky-post, post-formats, full-width-template, featured-images, custom-menu, custom-colors, custom-background, fluid-layout, fixed-layout, responsive-layout
+ Text Domain:  awe-ambrosia-child
+*/
+
+.fa-yelp {
+    background: url(/wp-content/themes/awe-ambrosia-child/images/yelp.png);
+    color: transparent;
+    background-size: 100% 100%;
+    width: 32px;
+    height: 32px;
+    background-position: top;
+    background-repeat: no-repeat;
+    line-height: 32px!important;
+}
+
+.fa-facebook {
+    background: url(/wp-content/themes/awe-ambrosia-child/images/FB.png);
+    color: transparent;
+    background-size: 100% 100%;
+    width: 32px;
+    height: 32px;
+background-position: top;
+    background-repeat: no-repeat;
+    line-height: 32px!important;
+}
+
+.fa-google-plus {
+    background: url(/wp-content/themes/awe-ambrosia-child/images/g+.png);
+    color: transparent;
+    background-size: 100% 100%;
+    width: 32px;
+    height: 32px;
+background-position: top;
+    background-repeat: no-repeat;
+    line-height: 32px!important;
+}

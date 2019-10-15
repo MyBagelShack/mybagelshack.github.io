@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My Bagel Shack (MBS) &#187; Recipe</title>
+	<atom:link href="/category/recipe/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Aug 2018 23:13:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/08/cropped-logo512-32x32.png</url>
+	<title> &#187; Recipe</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A simple autumnal bake</title>
+		<link>/2015/01/23/a-simple-autumnal-bake-combining-some-of-our-favourite-flavours-4/</link>
+		<comments>/2015/01/23/a-simple-autumnal-bake-combining-some-of-our-favourite-flavours-4/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 13:29:33 +0000</pubDate>
+		<dc:creator><![CDATA[mybagelshack]]></dc:creator>
+				<category><![CDATA[Fish]]></category>
+		<category><![CDATA[Recipe]]></category>
+		<category><![CDATA[Chicken]]></category>
+
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=85</guid>
+		<description><![CDATA[Boudin ham hock chicken,. Leberkas ham sausage doner pastrami porchetta tri-tip boudin shankle. Meatball shoulder rump spare ribs tongue venison short ribs. Flank landjaeger brisket leberkas bacon kielbasa shank meatball, fatback t-bone pork biltong boudin. Hamburger strip steak ribeye pastrami tenderloin.]]></description>
+				<content:encoded><![CDATA[<p>Boudin ham hock chicken,. Leberkas ham sausage doner pastrami porchetta tri-tip boudin shankle. Meatball shoulder rump spare ribs tongue venison short ribs. Flank landjaeger brisket leberkas bacon kielbasa shank meatball, fatback t-bone pork biltong boudin. Hamburger strip steak ribeye pastrami tenderloin.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/23/a-simple-autumnal-bake-combining-some-of-our-favourite-flavours-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A simple autumnal bake combining</title>
+		<link>/2015/01/23/a-simple-autumnal-bake-combining/</link>
+		<comments>/2015/01/23/a-simple-autumnal-bake-combining/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 13:27:54 +0000</pubDate>
+		<dc:creator><![CDATA[mybagelshack]]></dc:creator>
+				<category><![CDATA[Recipe]]></category>
+		<category><![CDATA[Chicken]]></category>
+
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=81</guid>
+		<description><![CDATA[Leberkas ham sausage doner pastrami porchetta tri-tip boudin shankle. Meatball shoulder rump spare ribs tongue venison short ribs. Flank landjaeger brisket leberkas bacon kielbasa shank meatball]]></description>
+				<content:encoded><![CDATA[<p>Leberkas ham sausage doner pastrami porchetta tri-tip boudin shankle. Meatball shoulder rump spare ribs tongue venison short ribs. Flank landjaeger brisket leberkas bacon kielbasa shank meatball</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/23/a-simple-autumnal-bake-combining/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Duis autem vel eum dolor in hendrerit</title>
+		<link>/2015/01/23/duis-autem-vel-eum-dolor-in-hendrerit/</link>
+		<comments>/2015/01/23/duis-autem-vel-eum-dolor-in-hendrerit/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 13:26:10 +0000</pubDate>
+		<dc:creator><![CDATA[mybagelshack]]></dc:creator>
+				<category><![CDATA[Chicken]]></category>
+		<category><![CDATA[Fish]]></category>
+		<category><![CDATA[Recipe]]></category>
+
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=77</guid>
+		<description><![CDATA[Bulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Aenean sagittis diam vel enim tempus sit amet cursus nisl aliquam.]]></description>
+				<content:encoded><![CDATA[<p>Bulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Aenean sagittis diam vel enim tempus sit amet cursus nisl aliquam.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/23/duis-autem-vel-eum-dolor-in-hendrerit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lettuce &#8211; Veg on the Ledge</title>
+		<link>/2015/01/23/lettuce-veg-on-the-ledge/</link>
+		<comments>/2015/01/23/lettuce-veg-on-the-ledge/#comments</comments>
+		<pubDate>Fri, 23 Jan 2015 13:23:41 +0000</pubDate>
+		<dc:creator><![CDATA[mybagelshack]]></dc:creator>
+				<category><![CDATA[Recipe]]></category>
+		<category><![CDATA[Chicken]]></category>
+		<category><![CDATA[Fish]]></category>
+
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=66</guid>
+		<description><![CDATA[Feel free to replace the plain flour with buckwheat flour – the dumplings will be a little chewier, but in a good way.]]></description>
+				<content:encoded><![CDATA[<p>Feel free to replace the plain flour with buckwheat flour – the dumplings will be a little chewier, but in a good way.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/01/23/lettuce-veg-on-the-ledge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

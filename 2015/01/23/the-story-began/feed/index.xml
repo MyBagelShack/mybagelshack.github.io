@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The Story Began</title>
+	<atom:link href="/2015/01/23/the-story-began/feed/" rel="self" type="application/rss+xml" />
+	<link>/2015/01/23/the-story-began/</link>
+	<description></description>
+	<lastBuildDate>Tue, 24 Mar 2015 07:08:11 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+	<item>
+		<title>By: David</title>
+		<link>/2015/01/23/the-story-began/#comment-5</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2015 07:19:25 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=87#comment-5</guid>
+		<description><![CDATA[Nulla interdum lacus quis placerat semper. Suspendisse at sollicitudin lacus.]]></description>
+		<content:encoded><![CDATA[<p>Nulla interdum lacus quis placerat semper. Suspendisse at sollicitudin lacus.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Karrot</title>
+		<link>/2015/01/23/the-story-began/#comment-4</link>
+		<dc:creator><![CDATA[Karrot]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2015 07:16:19 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=87#comment-4</guid>
+		<description><![CDATA[Praesent consequat placerat velit nec vehicula. Aliquam nec varius nisi. In sollicitudin ac velit ac sodales. Nulla interdum lacus quis placerat semper. Suspendisse at sollicitudin lacus.]]></description>
+		<content:encoded><![CDATA[<p>Praesent consequat placerat velit nec vehicula. Aliquam nec varius nisi. In sollicitudin ac velit ac sodales. Nulla interdum lacus quis placerat semper. Suspendisse at sollicitudin lacus.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David</title>
+		<link>/2015/01/23/the-story-began/#comment-3</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Mon, 26 Jan 2015 07:15:44 +0000</pubDate>
+		<guid isPermaLink="false">http://demo.awethemes.com/ambrosia/?p=87#comment-3</guid>
+		<description><![CDATA[Maecenas eu metus sit amet nunc rhoncus dictum vitae non felis.]]></description>
+		<content:encoded><![CDATA[<p>Maecenas eu metus sit amet nunc rhoncus dictum vitae non felis.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
